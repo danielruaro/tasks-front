@@ -4,7 +4,7 @@
 
 A step by step series of examples that tell you how to get running
 
-In case you dont have already backend running *[Click here to access backend repository](https://github.com/danielruaro/tasks-backend)
+In case you dont have already backend running *[Click here to access backend repository](https://github.com/danielruaro/tasks-back)
 
 Clone this repository
 
